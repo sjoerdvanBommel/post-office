@@ -29,7 +29,7 @@ export function PostOffice() {
 
   return (
     // <group position={[x, y, z]}>
-    <group position={[0, -2.3, 0]}>
+    <group position={[0, -2.8, 0]}>
       <primitive object={postOfficeGltf.scene} />
     </group>
   );
